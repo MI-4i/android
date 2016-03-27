@@ -44,7 +44,6 @@
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
   <project path="device/qcom/sepolicy" name="AOSP-JF-MM/platform_device_qcom_sepolicy" remote="github" revision="aosp-6.0-test" />
   <project path="device/google/atv" name="CyanogenMod/android_device_google_atv" groups="device,fugu,broadcom_pdk,generic_fs" remote="github" revision="cm-13.0" />
-  <project path="external/android-mock" name="CyanogenMod/android_external_android-mock" groups="pdk-cw-fs,pdk-fs" remote="github" revision="cm-13.0" />
   <project path="external/android-visualizer" name="CyanogenMod/android_external_android-visualizer" remote="github" revision="cm-13.0" />
   <project path="external/android/support-prebuilt" name="CyanogenMod/external_android_support-prebuilt" remote="github" revision="master" />
   <project path="external/ant-glob" name="CyanogenMod/android_external_ant-glob" groups="pdk-cw-fs,pdk-fs" remote="github" revision="cm-13.0" />
