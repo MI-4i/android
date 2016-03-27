@@ -489,7 +489,7 @@
   
     <!-- Device tree -->
   <project path="device/xiaomi/ferrari" name="MI-4i/android_device_xiaomi_ferrari" remote="github" revision="aosp-6.0.1" />
-  <project path="device/samsung/qcom-common" name="MI-4i/android_device_qcom_common" remote="github" revision="cm-13.0" />
+  <project path="ddevice/qcom/common" name="MI-4i/android_device_qcom_common" remote="github" revision="cm-13.0" />
   <project path="kernel/xiaomi/ferrari" name="MI-4i/android_kernel_xiaomi_ferrari" remote="github" revision="cm-13.0" />
 
   <!-- Vendor -->
