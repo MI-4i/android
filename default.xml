@@ -496,5 +496,5 @@
 
   <!-- Vendor -->
   <project path="vendor/aosp" name="AOSP-JF-MM/platform_vendor_aosp" remote="github" revision="aosp-6.0-test-caf" />
-  <project path="vendor/xiaomi/ferrari" name="MI-4i/android_vendor_xiaomi_ferrari" remote="github" revision="cm-13.0" remote="github" revision="cm-13.0" />
+  <project path="vendor/xiaomi/ferrari" name="MI-4i/android_vendor_xiaomi_ferrari" remote="github" revision="cm-13.0" />
 </manifest>
