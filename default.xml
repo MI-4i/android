@@ -318,6 +318,8 @@
   <project path="vendor/opengapps/sources/all" name="MI-4i/all" clone-depth="1" />
   <project path="vendor/opengapps/sources/arm" name="MI-4i/arm" clone-depth="1" />
   <project path="vendor/opengapps/sources/arm64" name="MI-4i/arm64" clone-depth="1" />
+  <project path="packages/apps/SnapdragonCamera" name="MI-4i/packages_apps_SnapdragonCamera" />
+  
 <!-- END CYANOGENMOD -->
 
 <!-- BEGIN AOSP -->
