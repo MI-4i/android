@@ -295,6 +295,6 @@
 
 <include name="snippets/hal_cm_all.xml" />
 <include name="aosp/aosp.xml" />
-<include name="xioami/xioami_all.xml" />
+<include name="xioami/xioami.xml" />
 
 </manifest>
